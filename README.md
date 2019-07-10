@@ -1,6 +1,6 @@
 # [Russian Speaking] R language group
 
-https://t.me/rlang_ru. 
+https://t.me/rlang_ru
 
 ## Правила группы
 
