@@ -1,4 +1,4 @@
-# [Russian Speaking] R language group
+# Russian Speaking R Language Group
 
 - Telegram: https://t.me/rlang_ru  
 
