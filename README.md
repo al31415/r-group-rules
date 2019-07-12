@@ -6,7 +6,8 @@
 </p>
 
 - Адрес группы в Telegram: https://t.me/rlang_ru 
-- Подгруппа для вакансий: https://t.me/rlang_ru_jobs
+    
+    - Подгруппа для вакансий: https://t.me/rlang_ru_jobs
 
 Тематика группы - [язык R](https://www.r-project.org), статистика и статистический анализ данных, машинное обучение и data mining. Вопросы можно задавать начиная с самых простых, до сложных - главное ясно сформулировать свой вопрос (см. [рекомендации ниже](https://github.com/r-lang-group-ru/group-rules/blob/master/README.md#как-правильно-задать-вопрос)).
 
