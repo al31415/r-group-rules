@@ -1,7 +1,9 @@
 # Русскоязычная группа пользователей языка программирования R   
 **[Russian Speaking R Language Group]**. 
 
+<p align="center">
 <img src = "./R_logo.png" width=270>. 
+</p>
 
 - Telegram: https://t.me/rlang_ru  
 
