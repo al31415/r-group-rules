@@ -1,6 +1,8 @@
 # Русскоязычная группа пользователей языка программирования R   
 [Russian Speaking R Language Group]
 
+<img src = "./R_logo.png" width=270>. 
+
 - Telegram: https://t.me/rlang_ru  
 
 Тематика группы - [язык R](https://www.r-project.org), статистика и статистический анализ данных, машинное обучение и data mining. Вопросы можно задавать начиная с самых простых, до сложных - главное ясно сформулировать свой вопрос (см. [рекомендации ниже](https://github.com/r-lang-group-ru/group-rules/blob/master/README.md#как-правильно-задать-вопрос)).
