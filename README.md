@@ -1,4 +1,4 @@
-# Русскоязычная группа пользователей языка R   
+# Группа пользователей языка R   
 **[Russian Speaking R Language Group]**. 
 
 <p align="center">
