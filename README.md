@@ -40,9 +40,11 @@
 
 - Если код небольшой, то код можно присылать прямо в чат простым текстом, либо используя теги ``.  **Если код больше 8-10 строк или есть строки с длиной больше 60 символов, то желательно воспользоваться сервисами / R-пакетами для расшаривания кода:**
 
-    - https://cran.r-project.org/web/packages/gistr/index.html
     - https://gist.github.com/
-    - [pastebin](https://github.com/hrbrmstr/pastebin)
+    - https://pastebin.com
+    - R-пакеты
+        - [Tools to work with the pastebin API in R](https://github.com/hrbrmstr/pastebin) 
+        - [Work with 'GitHub' 'gists' from 'R'](https://cran.r-project.org/web/packages/gistr/index.html)
 
 - **Скрины кода присылайте только в крайнем случае.** Их сложно читать и невозможно скопировать текст для быстрого воспроизведения проблемы. Маловероятно, что кто-то будет сидеть и вручную перепечатывать код со скрина. 
 
