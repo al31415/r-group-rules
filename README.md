@@ -1,5 +1,5 @@
 # Русскоязычная группа пользователей языка программирования R   
-[Russian Speaking R Language Group]
+**[Russian Speaking R Language Group]**. 
 
 <img src = "./R_logo.png" width=270>. 
 
