@@ -30,6 +30,10 @@
 - **Скрины кода присылайте только в крайнем случае.** Их сложно читать и невозможно скопировать текст для быстрого воспроизведения проблемы. Мало вероятно, что кто-то будет сидеть и вручную перепечатывать код со скрина. 
 
 
+## Ресурсы на русском языке
+
+- ["Классификация, регрессия и другие алгоритмы Data Mining с использованием R"](https://ranalytics.github.io/data-mining/index.html), Шитиков В. К., Мастицкий С. Э.
+
 https://telegra.ph/Russian-Speaking-R-lang-Group-07-09  
 https://stackoverflow.com/help/how-to-ask  
 https://stackoverflow.com/help/minimal-reproducible-example  
