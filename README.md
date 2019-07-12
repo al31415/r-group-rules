@@ -28,7 +28,7 @@
 
 - Обновите пакеты и перезапустите сессию. Иногда ошибка исправляют в новых версиях пакетов. Иногда при интенсивной интерактивной работе код может вести себя непредсказуемо.
 
-- [Пример кода должен быть](https://ru.stackoverflow.com/help/minimal-reproducible-example):
+- Пример кода должен быть [1](https://ru.stackoverflow.com/help/minimal-reproducible-example):
     
     - минимальным — максимально сократите код, сохранив все проблемные моменты;
     - самодостаточным — приведите все части кода, необходимые для воспроизведения проблемы;
@@ -52,6 +52,9 @@
 - ["Классификация, регрессия и другие алгоритмы Data Mining с использованием R"](https://ranalytics.github.io/data-mining/index.html), Шитиков В. К., Мастицкий С. Э.
 
 
-- [1] https://ru.stackoverflow.com/help/how-to-ask
-- [2] https://ru.stackoverflow.com/help/minimal-reproducible-example
+## References 
+
+- [1] https://ru.stackoverflow.com/help/minimal-reproducible-example
+- [2] https://ru.stackoverflow.com/help/how-to-ask
+
 
