@@ -54,7 +54,7 @@
 
 ## References 
 
-- [1] https://ru.stackoverflow.com/help/minimal-reproducible-example
-- [2] [Как создать минимальный, самодостаточный и воспроизводимый пример](https://ru.stackoverflow.com/help/how-to-ask)
+- [1] [Как создать минимальный, самодостаточный и воспроизводимый пример кода](https://ru.stackoverflow.com/help/minimal-reproducible-example)
+- [2] [Как задать хороший вопрос?](https://ru.stackoverflow.com/help/how-to-ask)
 
 
