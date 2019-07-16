@@ -55,11 +55,3 @@ _Тематика группы - [язык R](https://www.r-project.org), ста
 ## Ресурсы на русском языке
 
 - ["Классификация, регрессия и другие алгоритмы Data Mining с использованием R"](https://ranalytics.github.io/data-mining/index.html), Шитиков В. К., Мастицкий С. Э.
-
-
-## References 
-
-- [1] [Как создать минимальный, самодостаточный и воспроизводимый пример кода](https://ru.stackoverflow.com/help/minimal-reproducible-example)
-- [2] [Как задать хороший вопрос?](https://ru.stackoverflow.com/help/how-to-ask)
-
-
