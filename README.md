@@ -1,7 +1,6 @@
 # Группа пользователей языка R   
-**[Russian Speaking R Language Group]**  
-
 <!---
+**[Russian Speaking R Language Group]**  
 <p align="center">
 <img src = "./R_logo.png" width=270> 
 </p>
