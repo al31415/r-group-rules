@@ -13,7 +13,7 @@ _Тематика группы - [язык R](https://www.r-project.org), ста
 ## Ссылки на важные подсекции  
 
 - [Как задать хороший вопрос](https://github.com/r-lang-group-ru/group-rules/blob/master/README.md#how-to-ask-a-good-question) / http://bit.ly/2GhkQXF
-- [Как прислать код](https://github.com/r-lang-group-ru/group-rules/blob/master/README.md#code-sharing)
+- [Как прислать код](https://github.com/r-lang-group-ru/group-rules/blob/master/README.md#code-sharing) / http://bit.ly/2Ghc381
 
 ## В группе нельзя
 
