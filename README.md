@@ -12,8 +12,8 @@ _Тематика группы - [язык R](https://www.r-project.org), ста
 
 Ссылки на важные подсекции  
 
-- [Как задать хороший вопрос]https://github.com/r-lang-group-ru/group-rules/blob/master/README.md#how-to-ask-a-good-question
-- [Как прислать код]https://github.com/r-lang-group-ru/group-rules/blob/master/README.md#code-sharing
+- [Как задать хороший вопрос](https://github.com/r-lang-group-ru/group-rules/blob/master/README.md#how-to-ask-a-good-question)
+- [Как прислать код](https://github.com/r-lang-group-ru/group-rules/blob/master/README.md#code-sharing)
 
 ## В группе нельзя
 
@@ -33,8 +33,8 @@ _Тематика группы - [язык R](https://www.r-project.org), ста
 
 - Вопрос нужно сформулировать кратко и ясно, включив в него всю необходимую информацию, чтобы идентифицировать проблему и решить ее. Если вопрос будет нечеткий/неясный, то Вам скорее всего либо ничего не ответят, либо членам группы придется задавать вам дополнительные наводящие вопросы - на что не всегда есть время.
 
-    - пример плохого вопроса:
-    - пример хорошего вопроса:
+    - пример плохого вопроса: todo
+    - пример хорошего вопроса: todo
 
 - Расскажите как воспроизвести проблему.
 
