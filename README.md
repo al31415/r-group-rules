@@ -69,3 +69,4 @@ _Тематика группы - [язык R](https://www.r-project.org), ста
 ## Ресурсы на русском языке
 
 - ["Классификация, регрессия и другие алгоритмы Data Mining с использованием R"](https://ranalytics.github.io/data-mining/index.html), Шитиков В. К., Мастицкий С. Э.
+- [Coursera: Просто о статистике (с использованием R)](https://www.coursera.org/specializations/prosto-o-statistike)
