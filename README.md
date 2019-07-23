@@ -66,7 +66,8 @@ _Тематика группы - [язык R](https://www.r-project.org), ста
         - [Work with 'GitHub' 'gists' from 'R'](https://cran.r-project.org/web/packages/gistr/index.html)
 
 
-## Ресурсы на русском языке
+## Ресурсы 
 
 - ["Классификация, регрессия и другие алгоритмы Data Mining с использованием R"](https://ranalytics.github.io/data-mining/index.html), Шитиков В. К., Мастицкий С. Э.
 - [Coursera: Просто о статистике (с использованием R)](https://www.coursera.org/specializations/prosto-o-statistike)
+- [Coursera: Линейная регрессия](https://www.coursera.org/learn/lineynaya-regressiya/)
