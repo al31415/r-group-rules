@@ -61,6 +61,7 @@ _Тематика группы - [язык R](https://www.r-project.org), ста
 
     - https://gist.github.com/
     - https://pastebin.com
+    - https://rextester.com/l/r_online_compiler
     - R-пакеты
         - [Tools to work with the pastebin API in R](https://github.com/hrbrmstr/pastebin) 
         - [Work with 'GitHub' 'gists' from 'R'](https://cran.r-project.org/web/packages/gistr/index.html)
