@@ -9,6 +9,7 @@ _Тематика группы - [язык R](https://www.r-project.org), ста
 
 - Адрес группы в Telegram: https://t.me/rlang_ru
 - Подгруппа для вакансий: https://t.me/rlang_ru_jobs
+- Ленты новостей по R: https://t.me/rlang_feed
 
 ## Ссылки на важные подсекции  
 
