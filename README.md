@@ -79,3 +79,4 @@ _Тематика группы - [язык R](https://www.r-project.org), ста
 - [Stepic: Анализ данных в R](https://stepic.org/course/129)
 - [Stepic: Основы программирования на R](https://stepic.org/course/497)
 - [Статьи по R на Хабре](https://habrahabr.ru/hub/r/)
+- [The R Graph Gallery](https://www.r-graph-gallery.com/)
