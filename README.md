@@ -9,6 +9,7 @@ _Тематика группы - [язык R](https://www.r-project.org), ста
 
 - Адрес группы в Telegram: https://t.me/rlang_ru
 - Подгруппа для вакансий: https://t.me/rlang_ru_jobs
+- Ленты новостей по R: https://t.me/rlang_feed
 
 ## Ссылки на важные подсекции  
 
@@ -73,3 +74,9 @@ _Тематика группы - [язык R](https://www.r-project.org), ста
 - ["Классификация, регрессия и другие алгоритмы Data Mining с использованием R"](https://ranalytics.github.io/data-mining/index.html), Шитиков В. К., Мастицкий С. Э.
 - [Coursera: Просто о статистике (с использованием R)](https://www.coursera.org/specializations/prosto-o-statistike)
 - [Coursera: Линейная регрессия](https://www.coursera.org/learn/lineynaya-regressiya/)
+- [Алексей Шипунов, Е. Балдин "Наглядная статистика. Используем R!"](http://herba.msu.ru/shipunov/school/books/rbook.pdf)
+- [Сергей Мастицкий, Владимир Шитиков "Статистический анализ и визуализация данных с помощью R" - бесплатная электронная версия](https://github.com/ranalytics/r-tutorials/blob/master/Edition_2014/Book/Mastitsky_and_Shitikov_2014_R_tutorials.pdf)
+- [Stepic: Анализ данных в R](https://stepic.org/course/129)
+- [Stepic: Основы программирования на R](https://stepic.org/course/497)
+- [Статьи по R на Хабре](https://habrahabr.ru/hub/r/)
+- [The R Graph Gallery](https://www.r-graph-gallery.com/)
