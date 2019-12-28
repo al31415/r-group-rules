@@ -80,3 +80,4 @@ _Тематика группы - [язык R](https://www.r-project.org), ста
 - [Stepic: Основы программирования на R](https://stepic.org/course/497)
 - [Статьи по R на Хабре](https://habrahabr.ru/hub/r/)
 - [The R Graph Gallery](https://www.r-graph-gallery.com/)
+- [Кричевец А. Н., Корнеев А. А., Рассказова Е. И. Основы статистики для психологов. —  Москва, Акрополь, 2019. — 286 с.](https://handbook.mathpsy.com/?page_id=326)
