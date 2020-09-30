@@ -16,7 +16,7 @@ _Тематика группы - [язык R](https://www.r-project.org), ста
 - [Как задать хороший вопрос](https://github.com/r-lang-group-ru/group-rules/blob/master/README.md#how-to-ask-a-good-question) 
 - [Как прислать код](https://github.com/r-lang-group-ru/group-rules/blob/master/README.md#code-sharing) 
 
-## В группе нельзя
+**В группе нельзя**  
 
 - рассылать спам и рекламу, флудить (нетематические сообщения в большом количестве) -- такие действия приводят к бану
 - просить помощь за деньги -- такие сообщения удаляются
